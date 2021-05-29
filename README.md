@@ -1,6 +1,8 @@
 # Guidence
 Github guidence
 
-**This is a guidence of how to use Github**
+This is a guidence of how to use Github: 
 
-Firstly, you can share your code on Github.
+**Firstly,** you could see all your notebooks at **repositories**. You could also copy others' notebook by **fork**.
+
+
